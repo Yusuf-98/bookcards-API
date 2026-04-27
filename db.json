@@ -71,6 +71,150 @@
       "title": "The Adventure of Sherlock Holmes",
       "author": "Arthur Conan Doyle",
       "publicationYear": 1892
+    },
+    {
+      "id": 1,
+      "title": "Harry Potter and the Cursed Child",
+      "author": "J. K. Rowling",
+      "publicationYear": 2016
+    },
+    {
+      "id": 2,
+      "title": "Laskar Pelangi",
+      "author": "Andrea Hirata",
+      "publicationYear": 2005
+    },
+    {
+      "id": 3,
+      "title": "Murder on the Orient Express",
+      "author": "Agatha Christie",
+      "publicationYear": 1934
+    },
+    {
+      "id": 4,
+      "title": "Nothing Solid",
+      "author": "Risma Ridha Anissa",
+      "publicationYear": 2024
+    },
+    {
+      "id": 5,
+      "title": "The Rest Of The Story",
+      "author": "Sarah Dessen",
+      "publicationYear": 2023
+    },
+    {
+      "id": 6,
+      "title": "We were Liars",
+      "author": "E. Lockhart",
+      "publicationYear": 2025
+    },
+    {
+      "id": 7,
+      "title": "Tao Te Ching",
+      "author": "Laozi",
+      "publicationYear": 2026
+    },
+    {
+      "id": 8,
+      "title": "Madilog",
+      "author": "Tan Malaka",
+      "publicationYear": 1951
+    },
+    {
+      "id": 9,
+      "title": "The Way of Peace",
+      "author": "James Allen",
+      "publicationYear": 2024
+    },
+    {
+      "id": 10,
+      "title": "When Things Don’t Go Your Way",
+      "author": "Haemin Sunim",
+      "publicationYear": 2024
+    },
+    {
+      "id": 11,
+      "title": "Menemukan Diri Sendiri",
+      "author": "Nia Hanie Zen",
+      "publicationYear": 2024
+    },
+    {
+      "id": 12,
+      "title": "The Adventure of Sherlock Holmes",
+      "author": "Arthur Conan Doyle",
+      "publicationYear": 1892
+    },
+    {
+      "id": 1,
+      "title": "Harry Potter and the Cursed Child",
+      "author": "J. K. Rowling",
+      "publicationYear": 2016
+    },
+    {
+      "id": 2,
+      "title": "Laskar Pelangi",
+      "author": "Andrea Hirata",
+      "publicationYear": 2005
+    },
+    {
+      "id": 3,
+      "title": "Murder on the Orient Express",
+      "author": "Agatha Christie",
+      "publicationYear": 1934
+    },
+    {
+      "id": 4,
+      "title": "Nothing Solid",
+      "author": "Risma Ridha Anissa",
+      "publicationYear": 2024
+    },
+    {
+      "id": 5,
+      "title": "The Rest Of The Story",
+      "author": "Sarah Dessen",
+      "publicationYear": 2023
+    },
+    {
+      "id": 6,
+      "title": "We were Liars",
+      "author": "E. Lockhart",
+      "publicationYear": 2025
+    },
+    {
+      "id": 7,
+      "title": "Tao Te Ching",
+      "author": "Laozi",
+      "publicationYear": 2026
+    },
+    {
+      "id": 8,
+      "title": "Madilog",
+      "author": "Tan Malaka",
+      "publicationYear": 1951
+    },
+    {
+      "id": 9,
+      "title": "The Way of Peace",
+      "author": "James Allen",
+      "publicationYear": 2024
+    },
+    {
+      "id": 10,
+      "title": "When Things Don’t Go Your Way",
+      "author": "Haemin Sunim",
+      "publicationYear": 2024
+    },
+    {
+      "id": 11,
+      "title": "Menemukan Diri Sendiri",
+      "author": "Nia Hanie Zen",
+      "publicationYear": 2024
+    },
+    {
+      "id": 12,
+      "title": "The Adventure of Sherlock Holmes",
+      "author": "Arthur Conan Doyle",
+      "publicationYear": 1892
     }
   ]
 }
